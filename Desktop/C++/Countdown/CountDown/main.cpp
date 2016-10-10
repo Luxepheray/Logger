@@ -4,7 +4,8 @@ using namespace std;
 
 int main(){
     int i;
-    for (i=30;i>=0;i--){
+    std::cout<<"How many seconds?"<<std::endl;
+    for (std::cin>>i;i>=0;i--){
     std::cout<<i<<std::endl;
     }
 
