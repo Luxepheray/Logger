@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1476758736 source:/home/luxepheray/Desktop/C++/CardShuffler/CardShuffler/main.cpp
-	<iostream>
-	<math.h>
-	<cstdlib>
-	<string>
-	<unistd.h>
-
